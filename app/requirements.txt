@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-dotenv
+pymysql
+aiomysql
+passlib[argon2]
+
